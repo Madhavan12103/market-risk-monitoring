@@ -1,0 +1,51 @@
+Asset_ID,Name,Category,Base_Price
+AST_01000,JPY/USD,Forex,120.22
+AST_01001,Tech Corp 2,Equity,230.98
+AST_01002,AUD/USD,Forex,743.26
+AST_01003,Tech Corp 4,Equity,594.59
+AST_01004,Energy Corp 5,Equity,102.76
+AST_01005,AUD/USD,Forex,606.0
+AST_01006,Retail Corp 7,Equity,718.86
+AST_01007,Wheat Futures,Commodity,228.24
+AST_01008,Crude Oil Futures,Commodity,811.34
+AST_01009,Finance Corp 10,Equity,701.16
+AST_01010,Silver Futures,Commodity,163.92
+AST_01011,Tech Corp 12,Equity,101.82
+AST_01012,Wheat Futures,Commodity,849.02
+AST_01013,Copper Futures,Commodity,809.06
+AST_01014,CAD/USD,Forex,133.58
+AST_01015,Retail Corp 16,Equity,556.52
+AST_01016,Crude Oil Futures,Commodity,581.58
+AST_01017,Finance Corp 18,Equity,664.65
+AST_01018,Tech Corp 19,Equity,856.76
+AST_01019,Silver Futures,Commodity,285.19
+AST_01020,Energy Corp 21,Equity,376.48
+AST_01021,EUR/USD,Forex,274.31
+AST_01022,AUD/USD,Forex,638.63
+AST_01023,CAD/USD,Forex,252.36
+AST_01024,Wheat Futures,Commodity,277.25
+AST_01025,Tech Corp 26,Equity,687.77
+AST_01026,Finance Corp 27,Equity,823.58
+AST_01027,Gold Futures,Commodity,275.06
+AST_01028,JPY/USD,Forex,877.6
+AST_01029,Health Corp 30,Equity,658.88
+AST_01030,JPY/USD,Forex,464.26
+AST_01031,Retail Corp 32,Equity,254.16
+AST_01032,AUD/USD,Forex,270.11
+AST_01033,Copper Futures,Commodity,898.84
+AST_01034,Gold Futures,Commodity,227.13
+AST_01035,EUR/USD,Forex,498.58
+AST_01036,Energy Corp 37,Equity,161.31
+AST_01037,EUR/USD,Forex,427.94
+AST_01038,Copper Futures,Commodity,387.8
+AST_01039,AUD/USD,Forex,258.9
+AST_01040,Tech Corp 41,Equity,683.48
+AST_01041,JPY/USD,Forex,885.94
+AST_01042,JPY/USD,Forex,346.77
+AST_01043,Crude Oil Futures,Commodity,166.58
+AST_01044,JPY/USD,Forex,877.09
+AST_01045,AUD/USD,Forex,764.34
+AST_01046,Finance Corp 47,Equity,871.81
+AST_01047,GBP/USD,Forex,512.59
+AST_01048,Energy Corp 49,Equity,380.17
+AST_01049,AUD/USD,Forex,953.96
